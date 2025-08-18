@@ -8,11 +8,17 @@ COMFYUI_DIR=${WORKSPACE}/ComfyUI
 APT_PACKAGES=(
     #"package-1"
     #"package-2"
+    #"package-3"
+    #"package-4"
+    #"package-5"
 )
 
 PIP_PACKAGES=(
     #"package-1"
     #"package-2"
+    #"package-3"
+    #"package-4"
+    #"package-5"
 )
 
 NODES=(
