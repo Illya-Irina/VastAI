@@ -8,25 +8,19 @@ COMFYUI_DIR=${WORKSPACE}/ComfyUI
 APT_PACKAGES=(
     #"package-1"
     #"package-2"
-    #"package-3"
-    #"package-4"
-    #"package-5"
 )
 
 PIP_PACKAGES=(
     #"package-1"
     #"package-2"
-    #"package-3"
-    #"package-4"
-    #"package-5"
 )
 
 NODES=(
     #"https://github.com/ltdrdata/ComfyUI-Manager"
     #"https://github.com/cubiq/ComfyUI_essentials"
-    #"https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    #"https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
-    #"https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+    "https://github.com/ltdrdata/ComfyUI-Impact-Subpack"
+    "https://github.com/ltdrdata/ComfyUI-Inspire-Pack"
 )
 
 WORKFLOWS=(
