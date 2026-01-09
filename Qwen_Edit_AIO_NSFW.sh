@@ -28,7 +28,7 @@ WORKFLOWS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO/resolve/main/v18/Qwen-Rapid-AIO-NSFW-v18.1.safetensors?download=true"
+    "https://huggingface.co/Phr00t/Qwen-Image-Edit-Rapid-AIO/resolve/main/v19/Qwen-Rapid-AIO-NSFW-v19.safetensors?download=true"
 )
 
 UNET_MODELS=(
